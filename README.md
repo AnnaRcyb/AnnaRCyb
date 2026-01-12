@@ -1,11 +1,2 @@
-- 👋 Hi, I’m @AnnaRcyb
-- 👀 I’m interested in learning different tools for cybersecurity
-- 🌱 I’m currently learning Windows and Linux operating systems
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: I can speak intermmediate Russian.
-
-<!---
-AnnaRcyb/AnnaRcyb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hello, I'm Anna Roytberg
+<a href="https://www.linkedin.com/in/anna-roytberg-53516b27b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
