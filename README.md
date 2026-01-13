@@ -5,6 +5,7 @@ Cybersecurity student at Collin College focused on building practical security s
 
 <h2>👨‍💻 Cybersecurity Projects:</h2> 
 
+- [Building A Network (Hands-on)](https://annarcyb.github.io/In-Person-Network-Build-Lab/)
 
 <h2>📺 Coding Projects</h2>
 
