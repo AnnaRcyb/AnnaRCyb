@@ -1,5 +1,9 @@
-# Hello, I'm Anna Roytberg
+# Hello, I'm Anna Roytberg     
+<img src="personal-data_19002111.gif" width="225">
 <a href="https://www.linkedin.com/in/anna-roytberg-53516b27b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<br />
+<br />
+
 
 Cybersecurity student at Collin College focused on building practical security skills. This GitHub showcases cybersecurity projects, labs, and beginner coding projects that reflect my learning journey and technical growth.
 
